@@ -26,6 +26,11 @@ O **EduAlert!** é uma solução inteligente que integra tecnologia NFC e notifi
 
 ---
 
+
+
+https://github.com/user-attachments/assets/d0f78073-a768-47d1-ade7-f800329283a2
+
+
 ## 🛠️ Ecossistema de Hardware & Serviços
 
 ### 💳 Carteirinhas NFC
